@@ -11,6 +11,7 @@ I’m a B.Tech student at Symbiosis Institute of Technology, Nagpur, specializin
 ![](https://github-readme-stats.vercel.app/api?username=parthx18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=parthx18&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parthx18&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=parthx18&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parthx18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
